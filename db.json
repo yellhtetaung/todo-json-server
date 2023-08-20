@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Have to go",
+      "isEdit": false,
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "title": "Have to code",
+      "isEdit": false,
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "title": "Have to sleep",
+      "isEdit": false,
+      "isComplete": false
+    },
+    {
+      "id": 4,
+      "title": "I love you so much my baby!!!",
+      "isEdit": false,
+      "isComplete": false
+    }
+  ]
+}
