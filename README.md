@@ -6,13 +6,13 @@
 - json-server
 - axios
 
-- React App Start Script
+React App Start Script
 
 ```bash
 npm start
 ```
 
-- json-server Start Script
+json-server Start Script
 
 ```bash
 npm json-start
